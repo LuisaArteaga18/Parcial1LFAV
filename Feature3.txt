@@ -1,0 +1,4 @@
+metodo3
+{
+dato random
+}
